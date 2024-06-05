@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/velling-eds-aem/:/",
-    "/content/velling-eds-aem/configuration:/.helix/config.json"
+    "/content/dd-lingesh-eds-aem/:/",
+    "/content/dd-lingesh-eds-aem/configuration:/.helix/config.json"
   ]
 }
